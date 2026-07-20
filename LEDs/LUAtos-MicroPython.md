@@ -32,7 +32,9 @@ And off.
 D4.vaule(0)
 ```
 
-But what about dimming? For that, we need to set up pulse width modulation (PWM). We'll configure the LED labeled D5 (to the left of the USB connector.)
+But what about dimming?
+
+For that, we need to set up pulse width modulation (PWM). We'll configure the LED labeled D5 (to the left of the USB connector.)
 
 ```py
 p13 = machine.Pin(13)
