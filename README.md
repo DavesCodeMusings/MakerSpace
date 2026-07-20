@@ -1,2 +1,2 @@
 # MakerSpace
-Temporary home for library makerspace code and documentation
+This repository is a temporary home for my local library's makerspace code and documentation. Everything here is released to the public domain.
