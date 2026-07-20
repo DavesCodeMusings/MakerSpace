@@ -41,7 +41,9 @@ p13 = machine.Pin(13)
 D5 = machine.PWM(p13)
 ```
 
-With PWM, we can set various levels of brightness using different _duty cycles_. The values allowed are between 0 and 1023. Try a sampling of different values one at a time and observe the effect on LED brightness.
+Pulse width modulation is essentially just turning the LED on and off really, really fast. So fast, you can't see it. With PWM, we can set various levels of brightness using different _duty cycles_. Duty cycle is the ammount of time the LED is on compared to the time it's off. In MicroPython for this particular microcontroller board, the values can be between 0 and 1023.
+
+Try a sampling of different values one at a time and observe the effect on LED brightness.
 
 ```py
 D5.duty(1)
