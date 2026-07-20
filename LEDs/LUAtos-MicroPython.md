@@ -1,5 +1,5 @@
 # MicroPython LED Basics
-This is a short introduction to controlling LEDs with a microcontroller. In this case, it's an ESP32C3 microcontroller running MicroPython. Unfortunately, the LUAtos board is no longer sold on Amazon, but it should not be hard to change the GPIO pins to suit whatever you're using.
+This is a short introduction to controlling LEDs with a microcontroller. In this case, it's an ESP32C3 microcontroller running MicroPython. Unfortunately, the LUAtos board is no longer sold on Amazon, but it should not be hard to change the GPIO pins to suit whatever you're board using.
 
 ## Prerequisites
 * LUATOS ESP32C3 flashed with MicroPython
