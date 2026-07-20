@@ -4,6 +4,7 @@ This is a short introduction to controlling LEDs with a microcontroller. In this
 ## Prerequisites
 * LUATOS ESP32C3 flashed with MicroPython
 * Host computer capable of accessing MicroPython's REPL prompt
+* USB-A to USB-C cable for power and communication
 
 ## Code
 The following code snippets can be typed directly into the MicroPython Read Evaluate Print Loop (REPL) prompt. It's the thing that looks like this: >>>
