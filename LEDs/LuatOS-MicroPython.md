@@ -6,7 +6,7 @@ This is a short introduction to controlling LEDs with a microcontroller. In this
 * Host computer capable of accessing MicroPython's REPL prompt
 * USB-A to USB-C cable for power and communication
 
-> The microcontoller board is cloned and distributed by several manufacturers. It's recognizable by its blue PCB and labels of CORE-ESP32 on the top side and LuatOS and ESP32C3 on the bottom.
+> The microcontoller board design has been cloned and distributed by several manufacturers. It's recognizable by its blue PCB and labels of CORE-ESP32 on the top side and LuatOS and ESP32C3 on the bottom.
 
 ## Code
 The following code snippets can be typed directly into the MicroPython Read Evaluate Print Loop (REPL) prompt. It's the thing that looks like this: **>>>**
