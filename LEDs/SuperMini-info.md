@@ -1,0 +1,1 @@
+https://www.espboards.dev/esp32/esp32-s3-super-mini/
