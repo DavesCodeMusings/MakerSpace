@@ -35,7 +35,7 @@ np[0] = (64, 0, 0)
 np.write()
 ```
 
-## More Exploration
+## More Colors
 Try showing different colors and combinations. The three numbers represent RED, GREEN,  BLUE, in that order. The values control the brightness and can be between 0 and 255. Be sure to use _np.write()_ each time to make the change take effect.
 
 ```py
