@@ -63,4 +63,4 @@ np[0] = (64, 0, 64)
 np.write()
 ```
 
-Take a look at an [html color code chart](https://html-color-codes.com/rgb.php) and experiment with the red, green, and blue values listed there. Note that the results will be close, but not exact. It may help to shine the NeoPixel on a white piece of paper rather than trying to look at it directly.
+After finishing the examples above, take a look at an [html color code chart](https://html-color-codes.com/rgb.php) Experiment with the red, green, and blue values listed there. Note that the results will be close, but not exact. It may help to shine the NeoPixel on a white piece of paper rather than trying to look at it directly.
