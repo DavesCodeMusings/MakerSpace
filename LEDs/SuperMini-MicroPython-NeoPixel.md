@@ -41,12 +41,24 @@ Try showing different colors and combinations. The three numbers represent RED, 
 ```py
 np[0] = (0, 64, 0)
 np.write()
+```
+
+```py
 np[0] = (0, 0, 64)
 np.write()
+```
+
+```py
 np[0] = (64, 64, 0)
 np.write()
+```
+
+```py
 np[0] = (0, 64, 64)
 np.write()
+```
+
+```py
 np[0] = (64, 0, 64)
 np.write()
 ```
