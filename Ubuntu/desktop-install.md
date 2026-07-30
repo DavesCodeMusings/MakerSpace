@@ -46,12 +46,17 @@ You'll be asked to make a number of [choices during installation](https://linuxi
 
 Once you click install, the process is automatic. You can kick back and relax. If you're installing onto a laptop, make sure it's plugged in.
 
-## Installing additional software
+When installation finishes and you reboot, you're ready to log in as the user you created and start customizing your system.
+
+## Customizing the system
+The first time you log into Ubuntu, you'll be shown a _getting started_ wizard. Most of the default selections are fine. Ubuntu leaves most of the intrusive and tracking features off unless you opt in. But, before you click Finish, select the Open App Center button.
+
 Ubuntu has an [app store](https://linuxvox.com/blog/install-ubuntu-app-store/), just like Windows, Android, and iOS. You can use this to easily install applications you'll need. For a typical makerspace, the list below is a good start.
 
-* Visual Studio Code (for programming tasks.)
-* LibreOffice (for writing documentation.)
-* TODO
+* Visual Studio Code for programming tasks (listed under Development.)
+* LibreOffice for writing documentation (listed under Productivity.)
+
+If you find yourself wanting additional apps later, you can find the App Center on the Ubuntu menu bar.
 
 ## Creating one or more non-privileged users
 If you're sharing this computer with others, be sure to [create a user account](https://linux.how2shout.com/create-a-new-user-in-ubuntu-22-04-or-20-04-using-gui-or-terminal/) for each person. Alternatively, you can [create guest access](https://linuxconfig.org/how-to-enable-guest-session-on-ubuntu-20-04-focal-fossa-linux) that can be shared.
