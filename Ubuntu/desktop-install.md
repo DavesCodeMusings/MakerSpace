@@ -61,5 +61,13 @@ If you find yourself wanting additional apps later, you can find the App Center 
 ## Creating one or more non-privileged users
 If you're sharing this computer with others, be sure to [create a user account](https://linux.how2shout.com/create-a-new-user-in-ubuntu-22-04-or-20-04-using-gui-or-terminal/) for each person. Alternatively, you can [create guest access](https://linuxconfig.org/how-to-enable-guest-session-on-ubuntu-20-04-focal-fossa-linux) that can be shared.
 
+Interestingly enough, the Ubuntu user management tools do not allow you to assign users to groups, except by using command-line tools. If you find this to be inconvenient, you can run the following command in a terminal to install a GUI user and group management tool.
+
+```
+sudo apt install gnome-system-tools
+```
+
+Once installation is complete, there will be a new selection on the menu called Users and Groups.
+
 ## Keeping current with patches and updates
 You should get in the habit of periodically [running the Update app](https://www.howtogeek.com/740795/how-to-update-ubuntu-linux/) from the program menu. This will keep your system secure and running smoothly.
