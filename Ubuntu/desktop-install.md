@@ -36,7 +36,7 @@ Then, from the GNU GRUB menu, select Try or install Ubuntu.
 3. Watch for the Ubuntu logo and spinning busy indicator.
 
 ## Ubuntu installation choices
-You'll be asked to make a number of choices during installation. Most are self-explanatory. Those that are not are detailed below.
+You'll be asked to make a number of [choices during installation](https://linuxize.com/post/how-to-install-ubuntu-26-04/#boot-from-the-usb-drive). Most are self-explanatory. Those that are not are detailed below.
 * When connecting to WiFi, you may not see your network. If this happens, press your keyboard's down arrow a few times until the list begins scrolling down.
 * When asked what apps to start with, choose the default selection. Installation will be quicker and more apps can be installed later if needed.
 * For proprietary software, the safe choice to ensure everything works is to say yes. If you know for certain your hardware is fully supported, you can leave it unselected.
