@@ -71,3 +71,6 @@ Once installation is complete, there will be a new selection on the menu called 
 
 ## Keeping current with patches and updates
 You should get in the habit of periodically [running the Update app](https://www.howtogeek.com/740795/how-to-update-ubuntu-linux/) from the program menu. This will keep your system secure and running smoothly.
+
+## Shutting down
+If you're used to a system where the logout and shutdown options are on the start menu, you might find Ubuntu's arrangement confusing at first. You'll find shutdown, along with many other controls, in the upper right corner group with WiFi, speaker, and battery icons.
