@@ -1,4 +1,4 @@
-# A Quick Guide to Installing Ubuntu 26.4 LTS on Repurposed Hardware
+# Installing Ubuntu 26.4 LTS on Repurposed Hardware
 This guide is for those interested in extending the life of older laptops and desktops. Maybe you have an old Windoze 10 machine that's out of support. Maybe you've upgraded to something new and are wondering what to do with the old machine. Whatever your reasons, this guide will help you get going.
 
 ## Equipment needed
