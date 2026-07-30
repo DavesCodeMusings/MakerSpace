@@ -19,8 +19,32 @@ In this guide, we'll use a DVD image for the installation, but we'll copy it ont
 3. Copy the downloaded .ISO file to the Ventoy drive.
 4. Eject the flash drive when the copy is finished.
 
-## Installing
-TODO
+## Starting the installation process
+First, boot from the installation flash drive.
+1. With the power off, insert the flash drive into the machine where you want to install Ubuntu.
+2. Power up the computer and press whatever key is used to select the boot device (often it's F12.)
+3. Select your flash drive from the menu of choices.
+
+Next, select the Ubuntu image from the Ventoy menu.
+1. Use arrow keys to scroll if needed.
+2. Press Enter to boot.
+3. Select Boot in normal mode.
+
+Then, from the GNU GRUB menu, select Try or install Ubuntu.
+1. Use arrow keys if needed.
+2. Press Enter to confirm the selection.
+3. Watch for the Ubuntu logo and spinning busy indicator.
+
+## Ubuntu installation choices
+You'll be asked to make a number of choices during installation. Most are self-explanatory. Those that are not are detailed below.
+* When connecting to WiFi, you may not see your network. If this happens, press your keyboard's down arrow a few times until the list begins scrolling down.
+* When asked what apps to start with, choose the default selection. Installation will be quicker and more apps can be installed later if needed.
+* For proprietary software, the safe choice to ensure everything works is to say yes. If you know for certain your hardware is fully supported, you can leave it unselected.
+* When asked how to install, choose _Erase disk and install Ubuntu_. You already backed up anything you wanted to keep, right?
+* When asked where to install, the default choice is usually correct. If you see something like _nvme0n1_, that's your computer's solid state drive.
+* For creating your account, you can either use your name or choose something generic, like Administrator and then setup your personal account later.
+
+Once you click install, the process is automatic. You can kick back and relax.
 
 ## Installing additional software
 Ubuntu has an [app store](https://linuxvox.com/blog/install-ubuntu-app-store/), just like Windows, Android, and iOS. You can use this to easily install applications you'll need. For a typical makerspace, the list below is a good start.
