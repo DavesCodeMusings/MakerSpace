@@ -28,7 +28,7 @@ Ubuntu has an [app store](https://linuxvox.com/blog/install-ubuntu-app-store/), 
 * TODO
 
 ## Creating one or more non-privileged users
-If you're sharing this computer with others, be sure to create a user account for each person. Alternatively, you can [create guest access](https://linuxconfig.org/how-to-enable-guest-session-on-ubuntu-20-04-focal-fossa-linux) that can be shared.
+If you're sharing this computer with others, be sure to [create a user account](https://linux.how2shout.com/create-a-new-user-in-ubuntu-22-04-or-20-04-using-gui-or-terminal/) for each person. Alternatively, you can [create guest access](https://linuxconfig.org/how-to-enable-guest-session-on-ubuntu-20-04-focal-fossa-linux) that can be shared.
 
 ## Keeping current with patches and updates
 You should get in the habit of periodically [running the Update app](https://www.howtogeek.com/740795/how-to-update-ubuntu-linux/) from the program menu. This will keep your system secure and running smoothly.
