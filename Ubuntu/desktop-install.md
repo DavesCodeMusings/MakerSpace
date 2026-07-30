@@ -44,7 +44,7 @@ You'll be asked to make a number of choices during installation. Most are self-e
 * When asked where to install, the default choice is usually correct. If you see something like _nvme0n1_, that's your computer's solid state drive.
 * For creating your account, you can either use your name or choose something generic, like Administrator and then setup your personal account later.
 
-Once you click install, the process is automatic. You can kick back and relax.
+Once you click install, the process is automatic. You can kick back and relax. If you're installing onto a laptop, make sure it's plugged in.
 
 ## Installing additional software
 Ubuntu has an [app store](https://linuxvox.com/blog/install-ubuntu-app-store/), just like Windows, Android, and iOS. You can use this to easily install applications you'll need. For a typical makerspace, the list below is a good start.
