@@ -1,1 +1,1 @@
-Here you will find projects using the ESP32-S3 SuperMini microcotroller.
+Here you will find microcontroller projects using the ESP32-S3 SuperMini.
