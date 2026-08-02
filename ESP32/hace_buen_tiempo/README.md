@@ -1,5 +1,5 @@
 # Hace Buen Tiempo (It's Nice Weather)
-This is a project for the ESP32-S3 microcontroller. Your goal is to use the sample code provided and create a MicroPython program of your own.
+This is a project for the ESP32-S3 SuperMini microcontroller. Your goal is to use the sample code provided and create a MicroPython program of your own.
 
 Your program should do the following:
 1. Take a reading of the current temperature and humidity.
