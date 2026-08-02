@@ -1,7 +1,9 @@
-# Scan for I2C devices and print addresses found
+# Scan for I2C devices and print addresses found. This will help determine
+# if I2C devices are wired correctly.
 
 from machine import Pin, SoftI2C
 
+# Adjust pins as needed for your board.
 i2c_clock = 4
 i2c_data = 5
 
