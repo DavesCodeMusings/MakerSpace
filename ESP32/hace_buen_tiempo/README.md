@@ -4,7 +4,7 @@ This is a project for the ESP32-S3 SuperMini microcontroller. Your goal is to us
 Your program should do the following:
 1. Take a reading of the current temperature and humidity.
 2. Decide if the temperature is too hot, too cold, or just right for your comfort.
-3. Change the color of the built-in NeoPixel (WS2812B) to indicate the level of comfort.
+3. Change the color of the built-in NeoPixel (WS2812B) to indicate the current level of comfort.
 4. Repeat periodically.
 
 For bonus points, you can factor in humidity readings to estimate a "feels like" temperature.
