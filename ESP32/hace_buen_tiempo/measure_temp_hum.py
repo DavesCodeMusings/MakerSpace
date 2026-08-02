@@ -1,3 +1,6 @@
+# Demo program that shows how to read temperature and humidity from
+# an SHT30 (or compatible) sensor wired on the Inter-IC (I2C) bus.
+
 from micropython import const
 from machine import Pin, SoftI2C
 from time import sleep_ms
