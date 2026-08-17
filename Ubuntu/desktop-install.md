@@ -76,7 +76,7 @@ While you still have the terminal session open from installing _gnome-system-too
 sudo apt install git
 ```
 
-This will be handy for downloading any code from [GitHub](https://github.com). With the _git_ package installed, downloads can be done directly from Visual Studio Code.
+This will be handy for cloning any code from [GitHub](https://github.com). With the _git_ package installed, downloads can be done directly from Visual Studio Code.
 
 ## Keeping current with patches and updates
 You should get in the habit of periodically [running the Update app](https://www.howtogeek.com/740795/how-to-update-ubuntu-linux/) from the program menu. This will keep your system secure and running smoothly.
